@@ -1,5 +1,5 @@
 Boas vindas ao meu perfil 💙💙
-Meu nome é Nicole Martins
+### Meu nome é **Nicole Martins**
 
 Estou estudando na Alura
 Estou me desenvolvendo na linguagem JavaScript
